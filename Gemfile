@@ -27,6 +27,9 @@ gem 'devise-i18n'
 #A free, open source, Bootstrap admin theme created by Start Bootstrap
 gem 'bootstrap_sb_admin_base_v2'
 
+#
+gem 'rails-assets-bootstrap', '3.3.7', source: 'https://rails-assets.org'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
